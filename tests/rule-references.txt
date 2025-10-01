@@ -4164,3 +4164,17 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
 https://www.spamhaus.org/reputation-statistics/cctlds/domains/
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
+https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#migration
+https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-server-audit-transact-sql?view=sql-server-ver16
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#service-principal-assigned-to-a-role
+https://www.softperfect.com/products/networkscanner/
+https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#bitlocker-key-retrieval
+https://github.com/sadshade/veeam-creds/blob/6010eaf31ba41011b58d6af3950cffbf6f5cea32/Veeam-Get-Creds.ps1
+https://github.com/redcanaryco/atomic-red-team/blob/75fa21076dcefa348a7521403cdd6bfc4e88623c/atomics/T1124/T1124.md
+https://pwn.guide/free/web/crushftp
+https://www.binarly.io/blog/design-issues-of-modern-edrs-bypassing-etw-based-solutions
+https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html
+https://projectdiscovery.io/blog/crushftp-authentication-bypass
+https://x.com/Threatlabz/status/1879956781360976155
+https://web.archive.org/web/20211001064856/https://github.com/snovvcrash/DInjector
