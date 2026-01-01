@@ -177,6 +177,7 @@ https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
 https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/
 https://bazaar.abuse.ch/sample/6f3aa9362d72e806490a8abce245331030d1ab5ac77e400dd475748236a6cc81/
+https://bazaar.abuse.ch/sample/7bde840c7e8c36dce4c3bac937bcf39f36a6f118001b406bfbbc25451ce44fb4/
 https://bazaar.abuse.ch/sample/8c75f8e94486f5bbf461505823f5779f328c5b37f1387c18791e0c21f3fdd576/
 https://bczyz1.github.io/2021/01/30/psexec.html
 https://bhabeshraj.com/post/tampering-with-microsoft-defenders-tamper-protection
@@ -292,6 +293,7 @@ https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malwa
 https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
 https://bloodhound.readthedocs.io/en/latest/data-collection/azurehound.html
 https://blooteem.com/march-2022
+https://blu.org/mhonarc/discuss/2001/04/msg00285.php
 https://blu3-team.blogspot.com/2019/06/misleading-extensions-xlsexe-docexe.html
 https://blueteamops.medium.com/detecting-dev-tunnels-16f0994dc3e2
 https://blueteamops.medium.com/secedit-and-i-know-it-595056dee53d
@@ -324,6 +326,7 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://catalyst.prodaft.com/public/report/inside-the-latest-espionage-campaign-of-nebulous-mantis
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
@@ -490,6 +493,7 @@ https://docs.github.com/en/organizations/keeping-your-organization-secure/managi
 https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-two-factor-authentication-for-your-organization/requiring-two-factor-authentication-in-your-organization
 https://docs.github.com/en/organizations/managing-oauth-access-to-your-organizations-data/disabling-oauth-app-access-restrictions-for-your-organization
 https://docs.github.com/en/organizations/managing-organization-settings/transferring-organization-ownership
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-security-and-analysis-settings-for-your-repository
 https://docs.google.com/presentation/d/1dkrldTTlN3La-OjWtkWJBb4hVk6vfsSMBFBERs6R8zA/edit
@@ -869,6 +873,7 @@ https://github.com/carlospolop/PEASS-ng/blob/fa0f2e17fbc1d86f1fd66338a40e665e718
 https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 https://github.com/CCob/MirrorDump
 https://github.com/center-for-threat-informed-defense/adversary_emulation_library/blob/bf62ece1c679b07b5fb49c4bae947fe24c81811f/fin6/Emulation_Plan/Phase1.md
+https://github.com/CheraghiMilad/bypass-Neo23x0-auditd-config/blob/f1c478a37911a5447d5ffcd580f22b167bf3df14/personality-syscall/README.md
 https://github.com/CICADA8-Research/RemoteKrbRelay
 https://github.com/CICADA8-Research/RemoteKrbRelay/blob/19ec76ba7aa50c2722b23359bc4541c0a9b2611c/Exploit/RemoteKrbRelay/Relay/Attacks/RemoteRegistry.cs#L31-L40
 https://github.com/Cisco-Talos/IOCs/tree/80caca039988252fbb3f27a2e89c2f2917f582e0/2022/11
@@ -876,6 +881,7 @@ https://github.com/cloudflare/cloudflared
 https://github.com/cloudflare/cloudflared/releases
 https://github.com/codewhitesec/HandleKatz
 https://github.com/codewhitesec/SysmonEnte/
+https://github.com/codewhitesec/SysmonEnte/blob/fe267690fcc799fbda15398243615a30451d9099/screens/1.png
 https://github.com/codewhitesec/SysmonEnte/blob/main/screens/1.png
 https://github.com/connormcgarr/LittleCorporal
 https://github.com/corelight/CVE-2021-1675
@@ -1639,6 +1645,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/WSASS/blob/2c8fd9fa32143e7bc9f066e9511c6f8a57bc64b5/WSASS.cpp#L251
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1718,6 +1725,7 @@ https://gtfobins.github.io/gtfobins/nawk/#shell
 https://gtfobins.github.io/gtfobins/nice/#shell
 https://gtfobins.github.io/gtfobins/nohup/
 https://gtfobins.github.io/gtfobins/python/#shell
+https://gtfobins.github.io/gtfobins/rsync/#shell
 https://gtfobins.github.io/gtfobins/rvim/
 https://gtfobins.github.io/gtfobins/ssh/
 https://gtfobins.github.io/gtfobins/vim/
@@ -1840,6 +1848,7 @@ https://learn.microsoft.com/en-us/archive/blogs/jonathantrull/detecting-sticky-k
 https://learn.microsoft.com/en-us/archive/blogs/pki/basic-crl-checking-with-certutil
 https://learn.microsoft.com/en-us/azure/active-directory/architecture/security-operations-user-accounts#unusual-sign-ins
 https://learn.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-userstates
+https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-monitor-federation-changes
 https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#activity-from-anonymous-ip-address
 https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#anomalous-token
 https://learn.microsoft.com/en-us/azure/active-directory/identity-protection/concept-identity-protection-risks#anomalous-user-activity
@@ -1957,6 +1966,7 @@ https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomput
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-addefaultdomainpasswordpolicy?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/bitstransfer/add-bitsfile?view=windowsserver2019-ps
+https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference
 https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dism/disable-windowsoptionalfeature?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dnsclient/add-dnsclientnrptrule?view=windowsserver2022-ps
@@ -2412,8 +2422,10 @@ https://news.sophos.com/en-us/2022/07/14/blackcat-ransomware-attacks-not-merely-
 https://news.sophos.com/en-us/2022/11/03/family-tree-dll-sideloading-cases-may-be-related/
 https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver/
 https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-a-technical-deep-dive
+https://news.sophos.com/en-us/2024/08/07/sophos-mdr-hunt-tracks-mimic-ransomware-campaign-against-organizations-in-india/
 https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/
 https://ngrok.com/
+https://ngrok.com/blog-post/new-ngrok-domains
 https://ngrok.com/docs
 https://ngrok.com/docs/secure-tunnels/tunnels/ssh-reverse-tunnel-agent
 https://nmap.org/
@@ -2725,6 +2737,7 @@ https://ss64.com/nt/mklink.html
 https://ss64.com/nt/net-service.html
 https://ss64.com/nt/netsh.html
 https://ss64.com/nt/regsvr32.html
+https://ss64.com/nt/set.html
 https://ss64.com/nt/shell.html
 https://ss64.com/nt/syntax-redirection.html
 https://ss64.com/osx/csrutil.html
@@ -3564,6 +3577,7 @@ https://www.echotrail.io/insights/search/wermgr.exe
 https://www.echotrail.io/insights/search/wusa.exe/
 https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/
 https://www.elastic.co/blog/advanced-techniques-used-in-malaysian-focused-apt-campaign
+https://www.elastic.co/docs/reference/security/prebuilt-rules/rules/integrations/aws/defense_evasion_ec2_flow_log_deletion
 https://www.elastic.co/fr/blog/how-attackers-abuse-access-token-manipulation
 https://www.elastic.co/guide/en/security/7.17/prebuilt-rule-0-16-1-scheduled-task-execution-at-scale-via-gpo.html
 https://www.elastic.co/guide/en/security/8.4/potential-shadow-credentials-added-to-ad-object.html
@@ -3577,6 +3591,7 @@ https://www.elastic.co/guide/en/security/current/linux-restricted-shell-breakout
 https://www.elastic.co/guide/en/security/current/microsoft-iis-connection-strings-decryption.html
 https://www.elastic.co/guide/en/security/current/microsoft-iis-service-account-password-dumped.html
 https://www.elastic.co/guide/en/security/current/potential-invoke-mimikatz-powershell-script.html#potential-invoke-mimikatz-powershell-script
+https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
 https://www.elastic.co/guide/en/security/current/potential-remote-desktop-tunneling-detected.html
 https://www.elastic.co/guide/en/security/current/privilege-escalation-via-named-pipe-impersonation.html
 https://www.elastic.co/guide/en/security/current/remote-file-copy-to-a-hidden-share.html
@@ -3641,6 +3656,7 @@ https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-docu
 https://www.fortinet.com/content/dam/fortinet/assets/analyst-reports/ar-qakbot.pdf
 https://www.fortypoundhead.com/showcontent.asp?artid=24022
 https://www.fox-it.com/en/news/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/
+https://www.geeksforgeeks.org/how-to-kill-processes-on-the-linux-desktop-with-xkill/
 https://www.giac.org/paper/gcih/266/review-ftp-protocol-cyber-defense-initiative/102802
 https://www.glitch-cat.com/p/green-lambert-and-attack
 https://www.gnu.org/software/wget/manual/wget.html
@@ -3832,6 +3848,7 @@ https://www.mitiga.io/blog/mitiga-security-advisory-abusing-the-ssm-agent-as-a-r
 https://www.myantispyware.com/2020/12/14/how-to-uninstall-onelaunch-browser-removal-guide/
 https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/
 https://www.n00py.io/2022/03/manipulating-user-passwords-without-mimikatz/
+https://www.nccgroup.com/us/research-blog/lapsus-recent-techniques-tactics-and-procedures/
 https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/november/turla-png-dropper-is-back/
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/cold-steel/NCSC-MAR-Cold-Steel.pdf
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/devil-bait/NCSC-MAR-Devil-Bait.pdf
@@ -4073,6 +4090,7 @@ https://www.virustotal.com/gui/file/05a2adb266ec6c0ba9ed176d87d8530e71e845348c13
 https://www.virustotal.com/gui/file/0e2854753d17b1bb534de8e765d5813c9fb584a745978b3d92bc6ca78e3e7735/relations
 https://www.virustotal.com/gui/file/13828b390d5f58b002e808c2c4f02fdd920e236cc8015480fa33b6c1a9300e31
 https://www.virustotal.com/gui/file/13ae8bfbc02254b389ab052aba5e1ba169b16a399d9bc4cb7414c4a73cd7dc78/detection
+https://www.virustotal.com/gui/file/14d886517fff2cc8955844b252c985ab59f2f95b2849002778f03a8f07eb8aef
 https://www.virustotal.com/gui/file/15b57c1b68cd6ce3c161042e0f3be9f32d78151fe95461eedc59a79fc222c7ed
 https://www.virustotal.com/gui/file/16bafdf741e7a13137c489f3c8db1334f171c7cb13b62617d691b0a64783cc48/behavior
 https://www.virustotal.com/gui/file/1c547a064494a35d6b5e6b459de183ab2720a22725e082bed6f6629211f7abc1/behavior
@@ -4210,6 +4228,7 @@ https://www.zscaler.com/blogs/security-research/technical-analysis-crytox-ransom
 https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attack-vectors-apt37
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
+https://x.com/cyberfeeddigest/status/1887041526397587859
 https://x.com/russianpanda9xx/status/1940831134759506029
 https://x.com/yarden_shafir/status/1822667605175324787
 https://xmrig.com/docs/miner/command-line-options
