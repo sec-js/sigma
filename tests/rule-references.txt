@@ -110,6 +110,7 @@ https://app.any.run/tasks/64043a79-165f-4052-bcba-e6e49f847ec1/
 https://app.any.run/tasks/649e7b46-9bec-4d05-98a5-dfa9a13eaae5/
 https://app.any.run/tasks/65a79440-373a-4725-8d74-77db9f2abda4/
 https://app.any.run/tasks/6720b85b-9c53-4a12-b1dc-73052a78477d
+https://app.any.run/tasks/69c5abaa-92ad-45ba-8c53-c11e23e05d04/
 https://app.any.run/tasks/6d8cabb0-dcda-44b6-8050-28d6ce281687/
 https://app.any.run/tasks/7123e948-c91e-49e0-a813-00e8d72ab393/#
 https://app.any.run/tasks/713f05d2-fe78-4b9d-a744-f7c133e3fafb/
@@ -444,6 +445,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_RegisterTaskDefini
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_DeleteDBCluster.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_ModifyDBCluster.html
+https://docs.aws.amazon.com/AmazonS3/latest/API/API_DeleteBucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_Operations.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketEncryption.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketLogging.html
@@ -763,6 +765,7 @@ https://gist.github.com/bohops/2444129419c8acf837aedda5f0e7f340
 https://gist.github.com/bohops/735edb7494fe1bd1010d67823842b712
 https://gist.github.com/Capybara/6228955
 https://gist.github.com/Cyb3rWard0g/cf08c38c61f7e46e8404b38201ca01c8
+https://gist.github.com/Dump-GUY/8daef859f382b895ac6fd0cf094555d2
 https://gist.github.com/fovtran/ac0624983c7722e80a8f5a4babb170ee
 https://gist.github.com/gentilkiwi/dcc132457408cf11ad2061340dcb53c2
 https://gist.github.com/GlebSukhodolskiy/0fc5fa5f482903064b448890db1eaf9d
@@ -967,6 +970,7 @@ https://github.com/EmpireProject/Empire/blob/e37fb2eef8ff8f5a0a689f1589f424906fe
 https://github.com/EmpireProject/Empire/blob/e37fb2eef8ff8f5a0a689f1589f424906fe13055/lib/modules/powershell/persistence/powerbreach/resolver.py#L178
 https://github.com/EmpireProject/PSInject
 https://github.com/eset/malware-ioc/tree/master/oceanlotus
+https://github.com/EvotecIT/TheDashboard/blob/481a9ce8f82f2fd55fe65220ee6486bae6df0c9d/Examples/RunReports/PingCastle.ps1
 https://github.com/FalconForceTeam/FalconFriday/blob/a9219dfcfd89836f34660223f47d766982bdce46/Discovery/ADWS_Connection_from_Unexpected_Binary-Win.md
 https://github.com/FalconForceTeam/FalconFriday/blob/master/Discovery/ADWS_Connection_from_Unexpected_Binary-Win.md
 https://github.com/FalconForceTeam/SOAPHound
@@ -1615,6 +1619,7 @@ https://github.com/sleventyeleven/linuxprivchecker/blob/0d701080bbf92efd464e97d7
 https://github.com/snovvcrash/DInjector
 https://github.com/splunk/security_content/blob/0dd6de32de2118b2818550df9e65255f4109a56d/detections/endpoint/petitpotam_network_share_access_request.yml
 https://github.com/splunk/security_content/blob/300af51b88ad5d5b27ce4f5f54e4d6e6a3a2c06d/detections/endpoint/office_spawning_control.yml
+https://github.com/splunk/security_content/blob/7283ba3723551f46b69dfeb23a63b358afb2cb0e/lookups/browser_app_list.csv?plain=1
 https://github.com/splunk/security_content/blob/88d689fe8a055d8284337b9fad5d9152b42043db/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/office_spawning_control.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
@@ -1906,6 +1911,7 @@ https://learn.microsoft.com/en-us/entra/architecture/security-operations-applica
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#new-owner
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#device-administrator-roles
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#device-registrations-and-joins-outside-policy
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#non-compliant-device-sign-in
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-infrastructure#conditional-access
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#changes-to-privileged-accounts
@@ -1958,6 +1964,7 @@ https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/4464eaf0-f
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/d42db7d5-f141-4466-8f47-0a4be14e2fc1
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-rrp/0fa3191d-bb79-490a-81bd-54c2601b7a78
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/02b1f559-fda2-4ba3-94c2-806eb2777183
+https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-srvs/accf23b0-0f57-441c-9185-43041f1b0ee9
 https://learn.microsoft.com/en-us/outlook/troubleshoot/security/information-about-email-security-settings
 https://learn.microsoft.com/en-us/powershell/high-performance-computing/mpiexec?view=hpc19-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer
@@ -2087,6 +2094,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-delete
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/secedit
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/takeown
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-recovery
@@ -2098,9 +2106,12 @@ https://learn.microsoft.com/en-us/windows-server/identity/software-restriction-p
 https://learn.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/configuring-additional-lsa-protection
 https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist#disable-quick-assist-within-your-organization
 https://learn.microsoft.com/en-us/windows/client-management/manage-recall
+https://learn.microsoft.com/en-us/windows/compatibility/ntvdm-and-16-bit-app-support
 https://learn.microsoft.com/en-us/windows/msix/package/unsigned-package
 https://learn.microsoft.com/en-us/windows/package-manager/winget/source
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/appcontrol-deployment-guide
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-using-group-policy
+https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-memcm
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-script
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/using-event-viewer-with-applocker
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac
@@ -2149,6 +2160,7 @@ https://learn.microsoft.com/en-us/windows/win32/wmisdk/mofcomp
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
 https://learn.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://liberty-shell.com/sec/2020/02/25/shim-persistence/
+https://linux-audit.com/linux-aslr-and-kernelrandomize_va_space-setting/
 https://linux-audit.com/systemd/faq/what-is-the-difference-between-systemctl-disable-and-systemctl-mask/
 https://linux.die.net/man/1/arecord
 https://linux.die.net/man/1/bash
@@ -2336,6 +2348,7 @@ https://medium.com/@logicbomb_1/bugbounty-how-i-was-able-to-download-the-source-
 https://medium.com/@MalFuzzer/one-electron-to-rule-them-all-dc2e9b263daf
 https://medium.com/@malwaredancer/lockergoga-input-arguments-ipc-communication-and-others-bd4e5a7ba80a
 https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
+https://medium.com/@msuiche/the-nsa-compromised-swift-network-50ec3000b195
 https://medium.com/@mvelazco/hunting-for-samaccountname-spoofing-cve-2021-42287-and-domain-controller-impersonation-f704513c8a45
 https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6
 https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
@@ -2383,6 +2396,7 @@ https://mpgn.gitbook.io/crackmapexec/smb-protocol/authentication/checking-creden
 https://mpgn.gitbook.io/crackmapexec/smb-protocol/obtaining-credentials/dump-lsass
 https://mr0range.com/a-new-lolbin-using-the-windows-type-command-to-upload-download-files-81d7b6179e22
 https://mraddon.blog/2017/03/20/confluence-trick-to-create-pages-from-blueprint-templates/
+https://mrd0x.com/filefix-clickfix-alternative/
 https://mrd0x.com/sentinelone-persistence-via-menu-context/
 https://mrd0x.com/stealing-tokens-from-office-applications/
 https://msdn.microsoft.com/de-de/library/windows/desktop/aa363389(v=vs.85).aspx
@@ -2517,6 +2531,7 @@ https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1388
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472
 https://portmap.io/
+https://portswigger.net/daily-swig/vmware-horizon-under-attack-as-china-based-ransomware-group-targets-log4j-vulnerability
 https://portswigger.net/web-security/cross-site-scripting/contexts
 https://positive.security/blog/ms-officecmd-rce
 https://posts.slayerlabs.com/living-off-the-land/#gathernetworkinfovbs
@@ -3419,6 +3434,7 @@ https://web.archive.org/web/20221026202428/https://gist.github.com/code-scrap/d7
 https://web.archive.org/web/20230208123920/https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html
 https://web.archive.org/web/20230217071802/https://blooteem.com/march-2022
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://web.archive.org/web/20230329154538/https://blog.menasec.net/2019/07/interesting-difr-traces-of-net-clr.html
 https://web.archive.org/web/20230329155141/https://blog.menasec.net/2019/03/threat-hunting-26-remote-windows.html
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
 https://web.archive.org/web/20230329171218/https://blog.menasec.net/2019/02/threat-hunting-3-detecting-psexec.html
@@ -3645,6 +3661,7 @@ https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/wp-m-unc2452-2021-0003
 https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-windows-management-instrumentation.pdf
 https://www.first.org/resources/papers/conf2017/Advanced-Incident-Detection-and-Threat-Hunting-using-Sysmon-and-Splunk.pdf
 https://www.forensafe.com/blogs/runmrukey.html
+https://www.fortalicesolutions.com/posts/hiding-behind-the-front-door-with-azure-domain-fronting
 https://www.fortiguard.com/threat-signal-report/4718?s=09
 https://www.fortinet.com/blog/threat-research/enter-the-darkgate-new-cryptocurrency-mining-and-ransomware-campaign
 https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document
