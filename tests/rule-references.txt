@@ -64,6 +64,7 @@ https://admx.help/HKLM/SOFTWARE/Policies/Microsoft/Windows%20NT/Terminal%20Servi
 https://admx.help/HKLM/Software/Policies/Mozilla/Firefox/DNSOverHTTPS
 https://adsecurity.org/?p=1714
 https://adsecurity.org/?p=1772
+https://adsecurity.org/?p=1785
 https://adsecurity.org/?p=2053
 https://adsecurity.org/?p=2277
 https://adsecurity.org/?p=2288
@@ -935,6 +936,7 @@ https://github.com/dotnet/runtime/blob/7abe42dc1123722ed385218268bb9fe04556e3d3/
 https://github.com/dotnet/runtime/blob/ee2355c801d892f2894b0f7b14a20e6cc50e0e54/docs/design/coreclr/jit/viewing-jit-dumps.md#setting-configuration-variables
 https://github.com/dotnet/runtime/blob/f62e93416a1799aecc6b0947adad55a0d9870732/src/coreclr/src/inc/clrconfigvalues.h#L35-L38
 https://github.com/dotnet/runtime/search?p=1&q=COMPlus_&unscoped_q=COMPlus_
+https://github.com/DrorDvash/CVE-2022-22954_VMware_PoC
 https://github.com/dsnezhkov/TruffleSnout
 https://github.com/dsnezhkov/TruffleSnout/blob/7c2f22e246ef704bc96c396f66fa854e9ca742b9/TruffleSnout/Docs/USAGE.md
 https://github.com/dsnezhkov/TruffleSnout/blob/master/TruffleSnout/Docs/USAGE.md
@@ -1166,6 +1168,7 @@ https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3
 https://github.com/nasbench/Misc-Research/blob/8ee690e43a379cbce8c9d61107442c36bd9be3d3/Other/Undocumented-Flags-Sdbinst.md
 https://github.com/nasbench/Misc-Research/blob/b20da2336de0f342d31ef4794959d28c8d3ba5ba/ETW/Microsoft-Windows-Kernel-General.md
 https://github.com/nasbench/Misc-Research/blob/d114d6a5e0a437d3818e492ef9864367152543e7/Other/Persistence-Via-RegisterAppRestart-Shim.md
+https://github.com/nasbench/Misc-Research/blob/fc46f6da34ff7e0076da28fd3e66d6e1100f1c2f/ETW/Microsoft-Windows-SMBClient.md
 https://github.com/nasbench/Misc-Research/tree/b9596e8109dcdb16ec353f316678927e507a5b8d/LOLBINs/Winget
 https://github.com/nathan31337/Splunk-RCE-poc/
 https://github.com/nccgroup/redsnarf/blob/35949b30106ae543dc6f2bc3f1be10c6d9a8d40e/redsnarf.py
@@ -1763,6 +1766,7 @@ https://harfanglab.io/insidethelab/uac-0057-pressure-ukraine-poland/
 https://hashcat.net/wiki/doku.php?id=hashcat
 https://hatching.io/blog/powershell-analysis/
 https://hausec.com/2021/07/26/cobalt-strike-and-tradecraft/
+https://hawktrace.com/blog/CVE-2025-59287-UNAUTH
 https://help.duo.com/s/article/6327?language=en_US
 https://help.okta.com/en-us/Content/Topics/users-groups-profiles/usgp-create-character-restriction.htm
 https://hijacklibs.net/
@@ -2001,6 +2005,7 @@ https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomput
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-addefaultdomainpasswordpolicy?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/bitstransfer/add-bitsfile?view=windowsserver2019-ps
+https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference
 https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dism/disable-windowsoptionalfeature?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dnsclient/add-dnsclientnrptrule?view=windowsserver2022-ps
@@ -2049,6 +2054,7 @@ https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-d
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa394225(v=vs.85)
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms766431(v=vs.85)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4624
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4625
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4634
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4647
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4649
@@ -2334,6 +2340,7 @@ https://lolbas-project.github.io/lolbas/OtherMSBinaries/Squirrel/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/Te/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/Tracker/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/VisualUiaVerifyNative/
+https://lolbas-project.github.io/lolbas/OtherMSBinaries/Vshadow/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/VSIISExeLauncher/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/Vsjitdebugger/
 https://lolbas-project.github.io/lolbas/OtherMSBinaries/Wfc/
@@ -2358,6 +2365,7 @@ https://malware.news/t/the-rhysida-ransomware-activity-analysis-and-ties-to-vice
 https://man.freebsd.org/cgi/man.cgi?pwd_mkdb
 https://man.openbsd.org/ssh_config#LocalCommand
 https://man.openbsd.org/ssh_config#ProxyCommand
+https://man7.org/linux/man-pages/man1/dmesg.1.html
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
@@ -2856,6 +2864,7 @@ https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_win
 https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f575
 https://svch0st.medium.com/stats-from-hunting-cobalt-strike-beacons-c17e56255f9b
 https://swarm.ptsecurity.com/unauth-rce-vmware
+https://syedhasan010.medium.com/forensics-analysis-of-an-lnk-file-da68a98b8415
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/blackbyte-exbyte-ransomware
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/bluebottle-banks-targeted-africa
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/bumblebee-loader-cybercrime
@@ -2934,6 +2943,7 @@ https://thedfirreport.com/2023/03/06/2022-year-in-review/
 https://thedfirreport.com/2023/05/22/icedid-macro-ends-in-nokoyawa-ransomware/
 https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
+https://thedfirreport.com/2024/01/29/buzzing-on-christmas-eve-trigona-ransomware-in-3-hours/
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
 https://thedfirreport.com/2025/06/30/hide-your-rdp-password-spray-leads-to-ransomhub-deployment/
@@ -2983,6 +2993,7 @@ https://tria.ge/240301-rk34sagf5x/behavioral2
 https://tria.ge/240307-1hlldsfe7t/behavioral2/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240521-ynezpagf56/behavioral1
 https://tria.ge/240731-jh4crsycnb/behavioral2
+https://tria.ge/241231-j9yatstqbm/behavioral1
 https://trustedsec.com/blog/adexplorer-on-engagements
 https://trustedsec.com/blog/oops-i-udld-it-again
 https://trustedsec.com/blog/specula-turning-outlook-into-a-c2-with-one-registry-change
@@ -3562,6 +3573,7 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-sysmon-now-detects-mal
 https://www.bleepingcomputer.com/news/microsoft/new-windows-zero-day-with-public-exploit-lets-you-become-an-admin/
 https://www.bleepingcomputer.com/news/security/amazons-aws-ssm-agent-can-be-used-as-post-exploitation-rat-malware/
 https://www.bleepingcomputer.com/news/security/anydesk-says-hackers-breached-its-production-servers-reset-passwords/
+https://www.bleepingcomputer.com/news/security/centrestack-rce-exploited-as-zero-day-to-breach-file-sharing-servers/
 https://www.bleepingcomputer.com/news/security/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/
 https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rce-bug-is-exploited-in-attacks/
 https://www.bleepingcomputer.com/news/security/gootkit-malware-bypasses-windows-defender-by-setting-path-exclusions/
@@ -3628,6 +3640,7 @@ https://www.crowdstrike.com/blog/overwatch-exposes-aquatic-panda-in-possession-o
 https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/
 https://www.crowdstrike.com/blog/windows-restart-manager-part-1/
 https://www.crowdstrike.com/blog/windows-restart-manager-part-2/
+https://www.crowdstrike.com/en-us/blog/4-ways-adversaries-hijack-dlls/
 https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 https://www.crushftp.com/crush11wiki/Wiki.jsp?page=Update
 https://www.cve.org/CVERecord?id=CVE-2024-1708
@@ -3768,6 +3781,7 @@ https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-managem
 https://www.huntress.com/blog/curling-for-data-a-dive-into-a-threat-actors-malicious-ttps
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
+https://www.huntress.com/blog/supply-chain-compromise-axios-npm-package
 https://www.huntress.com/blog/the-unwanted-guest
 https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild
 https://www.hvs-consulting.de/lazarus-report/
@@ -3972,6 +3986,7 @@ https://www.powershellgallery.com/packages/DSInternals
 https://www.praetorian.com/blog/how-to-use-kerberoasting-t1208-for-privilege-escalation/?edition=2019
 https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/
 https://www.proofpoint.com/us/blog/threat-insight/part-1-socgholish-very-real-threat-very-fake-update
+https://www.proofpoint.com/us/blog/threat-insight/phish-china-aligned-espionage-actors-ramp-up-taiwan-semiconductor-targeting
 https://www.proofpoint.com/us/blog/threat-insight/serpent-no-swiping-new-backdoor-targets-french-entities-unique-attack-chain
 https://www.proofpoint.com/us/blog/threat-insight/ta410-group-behind-lookback-attacks-against-us-utilities-sector-returns-new
 https://www.proofpoint.com/us/blog/threat-insight/threat-actor-profile-ta2719-uses-colorful-lures-deliver-rats-local-languages
@@ -4057,6 +4072,7 @@ https://www.slipstick.com/developer/custom-form/clean-outlooks-forms-cache/
 https://www.snip2code.com/Snippet/4397378/UAC-bypass-using-EditionUpgradeManager-C/
 https://www.socinvestigation.com/most-common-windows-event-ids-to-hunt-mind-map/
 https://www.softpedia.com/get/Antivirus/Removal-Tools/ithurricane-PowerTool.shtml
+https://www.softperfect.com/products/networkscanner/
 https://www.softwaretestinghelp.com/how-to-use-ngrok/
 https://www.spamhaus.org/reputation-statistics/cctlds/domains/
 https://www.spamhaus.org/statistics/tlds/
@@ -4092,6 +4108,7 @@ https://www.trellix.com/en-sg/about/newsroom/stories/threat-labs/lockergoga-rans
 https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20Impact%20Figure%2010.jpg
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/b/lockbit-attempts-to-stay-afloat-with-a-new-version/technical-appendix-lockbit-ng-dev-analysis.pdf
+https://www.trendmicro.com/en_gb/research/22/e/uncovering-a-kingminer-botnet-attack-using-trend-micro-managed-x.html
 https://www.trendmicro.com/en_id/research/22/e/uncovering-a-kingminer-botnet-attack-using-trend-micro-managed-x.html
 https://www.trendmicro.com/en_no/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html
 https://www.trendmicro.com/en_ph/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
@@ -4120,6 +4137,7 @@ https://www.trendmicro.com/en_us/research/23/f/behind-the-scenes-unveiling-the-h
 https://www.trendmicro.com/en_us/research/23/h/an-overview-of-the-new-rhysida-ransomware.html
 https://www.trendmicro.com/en_us/research/24/b/threat-actor-groups-including-black-basta-are-exploiting-recent-.html
 https://www.trendmicro.com/en_us/research/24/c/cve-2024-21412--darkgate-operators-exploit-microsoft-windows-sma.html
+https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html
 https://www.trendmicro.com/en_us/research/25/c/socgholishs-intrusion-techniques-facilitate-distribution-of-rans.html
 https://www.trendmicro.com/en_us/research/25/f/water-curse.html
 https://www.trendmicro.com/en_za/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
