@@ -229,6 +229,7 @@ https://blog.hrncirik.net/cve-2023-46214-analysis
 https://blog.jourdant.me/post/3-ways-to-download-files-with-powershell
 https://blog.lexfo.fr/Forensics-xortigate-notice.html
 https://blog.lexfo.fr/xortigate-cve-2023-27997.html
+https://blog.lukaszolejnik.com/supply-chain-risk-of-agentic-ai-infecting-infrastructures-via-skill-worms/
 https://blog.malwarebytes.com/malwarebytes-news/2020/10/kraken-attack-abuses-wer-service/
 https://blog.malwarebytes.com/threat-analysis/2016/11/telecrypt-the-ransomware-abusing-telegram-api-defeated/
 https://blog.malwarebytes.com/threat-analysis/2020/04/new-agenttesla-variant-steals-wifi-credentials/
@@ -328,6 +329,7 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://cardinalops.com/blog/living-off-winrm-abusing-complexity-in-remote-management/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
@@ -419,6 +421,7 @@ https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-p
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/StartupItems.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_network.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_storage.html
+https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_system.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vm.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vsan.html
 https://developer.okta.com/docs/reference/api/event-types/
@@ -449,6 +452,7 @@ https://digital.nhs.uk/cyber-alerts/2018/cc-2825
 https://dirkjanm.io/a-different-way-of-abusing-zerologon/
 https://discuss.elastic.co/t/detection-and-response-for-hafnium-activity/266289/3
 https://dmaasland.github.io/posts/citrix.html
+https://docs.aws.amazon.com/accounts/latest/reference/API_EnableRegion.html
 https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_RegisterTaskDefinition.html
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_DeleteDBCluster.html
@@ -487,6 +491,7 @@ https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-inst
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
 https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/328136827/config-user-group
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/333889629/config-firewall-policy
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/398/event
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/44546/44546-logid-event-config-attr
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
@@ -729,6 +734,7 @@ https://en.wikipedia.org/wiki/HTML_Application
 https://en.wikipedia.org/wiki/IExpress
 https://en.wikipedia.org/wiki/List_of_Microsoft_Office_filename_extensions
 https://en.wikipedia.org/wiki/Nohup
+https://en.wikipedia.org/wiki/Right-to-left_override
 https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/
 https://enigma0x3.net/2016/11/17/bypassing-application-whitelisting-by-using-dnx-exe/
 https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
@@ -834,6 +840,7 @@ https://github.com/albertzsigovits/malware-notes/blob/c820c7fea76cf76a861b28ebc7
 https://github.com/AlessandroZ/LaZagne/tree/master
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
 https://github.com/AlsidOfficial/WSUSpendu/
+https://github.com/amidaware/tacticalrmm
 https://github.com/amjcyber/EDRNoiseMaker
 https://github.com/amlweems/xzbot?tab=readme-ov-file#backdoor-demo
 https://github.com/antonioCoco/JuicyPotatoNG
@@ -875,6 +882,7 @@ https://github.com/BloodHoundAD/BloodHound
 https://github.com/BloodHoundAD/BloodHound/blob/0927441f67161cc6dc08a53c63ceb8e333f55874/Collectors/AzureHound.ps1
 https://github.com/BloodHoundAD/SharpHound
 https://github.com/BloodHoundAD/SharpHound3/blob/7d96b991b1887ff50349ce59c80980bc0d95c86a/SharpHound3/LdapBuilder.cs
+https://github.com/bobby-tablez/TTP-Threat-Feeds/blob/45398914e631f8372c3a9fbcd339ff65ffff1b17/results/2025/10/20251001-161956-trendmicro-atomic-macos-stealer-(amos).yml#L36
 https://github.com/bohops/WSMan-WinRM
 https://github.com/boku7/injectAmsiBypass
 https://github.com/boku7/spawn
@@ -1837,6 +1845,8 @@ https://jsecurity101.medium.com/bypassing-access-mask-auditing-strategies-480fb6
 https://jstnk9.github.io/jstnk9/research/GobRAT-Malware/
 https://jstnk9.github.io/jstnk9/research/InstallScreenSaver-SCR-files
 https://jstnk9.github.io/jstnk9/research/Jlaive-Antivirus-Evasion-Tool
+https://juggernaut-sec.com/capabilities/#cap_setgid
+https://juggernaut-sec.com/capabilities/#cap_setuid
 https://kb.acronis.com/content/60892
 https://kb.cert.org/vuls/id/843464
 https://kb.eventtracker.com/evtpass/evtpages/EventId_6004_Microsoft-Windows-DNS-Server-Service_65410.asp
@@ -2088,6 +2098,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-serve
 https://learn.microsoft.com/en-us/sql/odbc/odbcconf-exe?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-procoption-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transact-sql?view=sql-server-ver16
+https://learn.microsoft.com/en-us/sql/tools/sqlps-utility?view=sql-server-ver15
 https://learn.microsoft.com/en-us/sysinternals/downloads/livekd
 https://learn.microsoft.com/en-us/sysinternals/downloads/microsoft-store
 https://learn.microsoft.com/en-us/sysinternals/downloads/procdump
@@ -3672,6 +3683,7 @@ https://www.darkoperator.com/blog/2018/10/5/operating-offensively-against-sysmon
 https://www.datadoghq.com/blog/monitor-kubernetes-audit-logs/#monitor-api-authentication-issues
 https://www.deepinstinct.com/2021/02/16/lsass-memory-dumps-are-stealthier-than-ever-before-part-2/
 https://www.deepinstinct.com/blog/nofilter-abusing-windows-filtering-platform-for-privilege-escalation
+https://www.deepwatch.com/labs/customer-advisory-fortios-ssl-vpn-vulnerability-cve-2022-42475-exploited-in-the-wild/
 https://www.dfirnotes.net/portproxy_detection/
 https://www.documentcloud.org/documents/5743766-Global-Threat-Report-2019.html
 https://www.echotrail.io/insights/search/defaultpack.exe
@@ -3763,6 +3775,7 @@ https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-docu
 https://www.fortinet.com/content/dam/fortinet/assets/analyst-reports/ar-qakbot.pdf
 https://www.fortypoundhead.com/showcontent.asp?artid=24022
 https://www.fox-it.com/en/news/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/
+https://www.geeksforgeeks.org/how-to-kill-processes-on-the-linux-desktop-with-xkill/
 https://www.giac.org/paper/gcih/266/review-ftp-protocol-cyber-defense-initiative/102802
 https://www.glitch-cat.com/p/green-lambert-and-attack
 https://www.gnu.org/software/wget/manual/wget.html
@@ -3836,6 +3849,7 @@ https://www.ired.team/offensive-security/credential-access-and-credential-dumpin
 https://www.ired.team/offensive-security/credential-access-and-credential-dumping/ntds.dit-enumeration
 https://www.ired.team/offensive-security/defense-evasion/parent-process-id-ppid-spoofing
 https://www.ired.team/offensive-security/lateral-movement/t1076-rdp-hijacking-for-lateral-movement
+https://www.ired.team/offensive-security/lateral-movement/winrs-for-lateral-movement
 https://www.ired.team/offensive-security/persistence/t1128-netsh-helper-dll
 https://www.joesandbox.com/analysis/411752/0/html#7048BB9A06B8F2DD9D24C77F389D7B2B58D2
 https://www.joesandbox.com/analysis/443736/0/html
@@ -4311,6 +4325,7 @@ https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/
 https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/
 https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/
 https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/
+https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
 https://www.welivesecurity.com/2022/01/18/donot-go-do-not-respawn/
 https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/
